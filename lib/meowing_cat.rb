@@ -1,2 +1,3 @@
 ## code your solution here. 
-class 
+class Cat 
+  attr_accessor
